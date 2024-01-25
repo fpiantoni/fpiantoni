@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/fpiantoni?label=Follow&style=social)](https://github.com/fpiantoni) 
 [![Website](https://img.shields.io/badge/BircleAI--green?style=social&logo=google%20chrome)](https://bircle.ai/) 
 
-Software Engineer student, CTO and Co-Founder at Bircle AI. AI & Blockchain lover & enthusiast.
+Software Engineer, CTO and Co-Founder at Bircle AI. AI & Blockchain lover & enthusiast.
 Passionate of building software for other people. 
 
 Always looking forward to learn new things, try new things and expand my professional horizons. 
