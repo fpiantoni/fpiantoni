@@ -40,7 +40,6 @@ Feel free to message me.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiantoni&layout=compact&count_private=true&theme=gruvbox" />
 
-![fpiantoni's github stats](https://github-readme-stats.vercel.app/api?username=fpiantoni&count_private=true&show_icons=true&include_all_commits=true)
 
 
 ### Visitor count
