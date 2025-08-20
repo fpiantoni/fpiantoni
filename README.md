@@ -43,4 +43,4 @@ Feel free to message me.
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/fpiantoni/count.svg" />
+<img src="https://profile-counter.deno.dev/fpiantoni/count.svg" />
